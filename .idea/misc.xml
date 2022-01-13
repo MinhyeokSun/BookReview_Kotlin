@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/smh50/AndroidStudioProjects/BookReview/app/src/main/res/drawable/background_gray_stroke_radius_8.xml" value="0.23333333333333334" />
         <entry key="..\:/Users/smh50/AndroidStudioProjects/BookReview/app/src/main/res/layout/activity_main.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/smh50/AndroidStudioProjects/BookReview/app/src/main/res/layout/item_book.xml" value="0.25" />
       </map>
     </option>
   </component>
